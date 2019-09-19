@@ -6,7 +6,7 @@ timestamp of the latest commit in the cloned student repos.
 You can install the latest version directly from the repo with `pip`:
 
 ```
-$ python3 -m pip install --user --upgsade git+https://github.com/slarse/repobee-timestamp.git
+$ python3 -m pip install --user --upgrade git+https://github.com/slarse/repobee-timestamp.git
 ```
 
 The same command can be used to upgrade to a new version.
